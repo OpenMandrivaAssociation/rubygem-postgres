@@ -11,6 +11,7 @@ License:	GPLv2+ or Ruby
 URL:		http://bitbucket.org/ged/ruby-pg/
 Source0:	http://rubygems.org/gems/%{rbname}-%{version}.gem
 BuildRequires:	rubygems 
+BuildRequires:	postgresql-devel
 BuildRequires:	ruby-devel
 BuildRequires:	rubygem(rake)
 %rename		ruby-%{rbname}
