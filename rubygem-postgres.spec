@@ -1,11 +1,11 @@
 # Generated from postgres-0.8.1.gem by gem2rpm5 -*- rpm-spec -*-          
 %define	rbname	postgres
 
-Summary:	This is an old, deprecated version of the Ruby PostgreSQL driver that hasn't been maintained or supported since early 2008
+Summary:	Deprecated version of the Ruby PostgreSQL driver
 Name:		rubygem-%{rbname}
 
 Version:	0.8.1
-Release:	2
+Release:	3
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
 URL:		https://bitbucket.org/ged/ruby-pg
