@@ -5,7 +5,7 @@ Summary:	Deprecated version of the Ruby PostgreSQL driver
 Name:		rubygem-%{rbname}
 
 Version:	0.8.1
-Release:	3
+Release:	4
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
 URL:		https://bitbucket.org/ged/ruby-pg
